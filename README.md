@@ -186,16 +186,6 @@ parking-lot/
 - **Concurrency**: async-mutex
 - **Storage**: In-memory (Maps) - easily replaceable with a database
 
-## Future Enhancements
-
-- REST API endpoints for external integration
-- Database persistence (PostgreSQL/MongoDB)
-- Payment processing integration
-- Reserved parking spots
-- Monthly parking passes
-- Email notifications for tickets
-- Admin dashboard for monitoring
-- Analytics and reporting
 
 ## License
 
